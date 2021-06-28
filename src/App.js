@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Dear Akbar dai & Pravesh dai,
+          Dear Akbar dai and Pravesh dai,
           <br/>
           This is Bijay Shrestha hosting React app from cloudflare.
         </p>
