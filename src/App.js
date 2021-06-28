@@ -7,7 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Dear Akbar dai & Pravesh dai,
+          <br/>
+          This is Bijay Shrestha hosting React app from cloudflare.
         </p>
         <a
           className="App-link"

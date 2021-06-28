@@ -1,0 +1,9 @@
+name = "cloudflare-demo"
+type = 'webpack'
+account_id = 'dad52a0ee3fbc195d1e3b300868aa584'
+route = ''
+zone_id = ''
+usage_model = ''
+workers_dev = true
+target_type = "webpack"
+site = {bucket = "./build",entry-point = "workers-site"}
