@@ -9,7 +9,7 @@ function App() {
         <p>
           Dear Akbar dai and Pravesh dai,
           <br/>
-          This is Bijay Shrestha hosting React app from cloudflare.
+          This is Bijay Shrestha hosting React app in Private Git Repository from Cloudflare using Wrangler.
         </p>
         <a
           className="App-link"
