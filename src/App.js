@@ -7,9 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Dear Akbar dai and Pravesh dai,
+          Dear dai,
           <br/>
-          This is Bijay Shrestha hosting React app in Private Git Repository from Cloudflare using Wrangler.
+          This is sample React app hosted in Cloudflare using Wrangler.
         </p>
         <a
           className="App-link"
